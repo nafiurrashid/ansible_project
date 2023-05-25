@@ -8,7 +8,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', '192.168.56.117');
    define('DB_USERNAME', 'ecomuser');
    define('DB_PASSWORD', 'ecompassword');
    define('DB_DATABASE', 'ecommerece');

@@ -123,7 +123,7 @@ session_start();
 				<div class="container">
 					<ul class="header-links pull-left">
 						<li><a href="#"><i class="fa fa-phone"></i> +8801717-800817</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> nafiur.rashid@bjitacademy.com</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i> homayun.kabir@bjitacademy.com</a></li>
 						<li><a href="#"><i class="fa fa-map-marker"></i>Pachkhola, Dhaka</a></li>
 					</ul>
 					<ul class="header-links pull-right">
